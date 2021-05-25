@@ -1,3 +1,7 @@
+# Notice
+This is a copy of a finished repository. The original repository is private and unavailable, so I copied the code here. This code was written by a team for a class project at the Rochester Institute of Technology.
+
+
 # WebCheckers
 
 An online Checkers game system built in Java 8=>11 and Spark,
