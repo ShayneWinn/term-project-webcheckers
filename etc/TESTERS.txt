@@ -1,0 +1,18 @@
+To build application: mvn compile exec:java
+To view application: localhost:4567
+
+Instructions:
+To challenge a player, you will need two browsers, each logged on.
+Each player will appear as a button.
+Click the button to start up a game.
+
+Completed and Testable:
+Player Sign-in
+Player Sign-out
+Starting a game
+Ending a game by logging out
+
+In Development and Not Testable:
+Moving Pieces
+Manual Resignation
+Automatic Resignation (Lose conditions)
